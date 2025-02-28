@@ -2,7 +2,6 @@
 📌 Overview
 Melodify is a music streaming web application that allows users to browse, play, and enjoy songs with an elegant and intuitive UI. The project implements user authentication, a responsive design, and an interactive audio player using web technologies.
 
-The authentication system is handled via JavaScript by making API calls to http://localhost/Melodify/api.php, ensuring a smooth login/signup experience.
 
 🔍 Features
 🎶 Music Player with Controls
